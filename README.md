@@ -108,18 +108,18 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 >
 > - In MameCategories.txt romlist file you have:
 >   ```
->#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
->pl_shemup;Shoot'em Up;@;;;;;;;;;;;;;;;;;;
->pl_btemup;Beat'em Up;@;;;;;;;;;;;;;;;;;;
->pl_fighter;Fighter;@;;;;;;;;;;;;;;;;;;
->pl_platform;Platform;@;;;;;;;;;;;;;;;;;;
->pl_driving;Driving;@;;;;;;;;;;;;;;;;;;
->pl_rungun;Run & Gun;@;;;;;;;;;;;;;;;;;;
->pl_puzzle;Puzzle;@;;;;;;;;;;;;;;;;;;
->pl_sports;Sports;@;;;;;;;;;;;;;;;;;;
->pl_4players;4 Players;@;;;;;;;;;;;;;;;;;;
->pl_all;All Arcade;@;;;;;;;;;;;;;;;;;;
->Main;Main;@;;;;;;;;;;;;;;;;;;
+> #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
+> pl_shemup;Shoot'em Up;@;;;;;;;;;;;;;;;;;;
+> pl_btemup;Beat'em Up;@;;;;;;;;;;;;;;;;;;
+> pl_fighter;Fighter;@;;;;;;;;;;;;;;;;;;
+> pl_platform;Platform;@;;;;;;;;;;;;;;;;;;
+> pl_driving;Driving;@;;;;;;;;;;;;;;;;;;
+> pl_rungun;Run & Gun;@;;;;;;;;;;;;;;;;;;
+> pl_puzzle;Puzzle;@;;;;;;;;;;;;;;;;;;
+> pl_sports;Sports;@;;;;;;;;;;;;;;;;;;
+> pl_4players;4 Players;@;;;;;;;;;;;;;;;;;;
+> pl_all;All Arcade;@;;;;;;;;;;;;;;;;;;
+> Main;Main;@;;;;;;;;;;;;;;;;;;
 >   ```
 >
 > Notice the Main line at the bottom that allows me to navigate to the Main (Level 1) Menu and behaves as a “Back” option.
