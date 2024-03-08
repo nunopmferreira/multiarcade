@@ -1,0 +1,109 @@
+###########################
+### My Attract Config How to
+###########################
+
+What I wanted:
+1. 1st Level Menu with the emulators (Mame, VisualPinball, Dosbox,...) (1st Level);
+2. 2nd Level Submenus with categories (Mame: Fighting, Racing; VP: Movies, StarWars,...) (2nd Level);
+3. 3rd Level Menu with gameslist;
+3. In each menu an option to return to the previous menu.
+
+How I implemented:
+1. Menus are Displays
+
+2. Navigating between Displays:
+In Attract each display has a romlist file.
+An entry in the romlist file referring to another display will be displayed in the wheel and navigate to this display
+ex. VPCategories;VP Categories;@;;;;;;;;;;;;;;;;;;
+
+3. Implementing the MAIN Display (1st level Display)
+The Main Display should show a list of the Emulators.
+In Attract there is no notion of Main Display. The top Display is the Displays Menu and I found no way to configure it.
+My workaround is to use attract.cfg with the same entries as a Main Display rom file entries.
+
+->Attract.cfg
+##Visible displays
+display	MameCategories
+	layout               nevato_full
+	romlist              MameCategories
+	in_cycle             yes
+	in_menu              yes
+
+display	VPCategories
+	layout               nevato_full
+	romlist              VPCategories
+	in_cycle             yes
+	in_menu              yes
+### Hidden Display
+display	Main
+	layout               nevato_full
+	romlist              Main
+	in_cycle             no
+	in_menu              no
+
+->Main.txt (romfile for Main Display)
+MameCategories;Mame Categories;@;;;;;;;;;;;;;;;;;;
+VPCategories;VP Categories;@;;;;;;;;;;;;;;;;;;
+
+When acessing for the first time (Displays Menu) you see only the visible displays.
+Note the in_cycle=no and in_menu=no for all other displays.
+And when navigating to the Main Display you see the displays configured in the Main romfile.
+The Displays Menu is only accessed on Boot as the return path allways lead to Main Display.
+
+ex flow. Boot->Displays Menu->MameCategories->Main->MameCategories->Main->VPCategories
+
+4. Implementing SCategories Display (2nd Level)
+Each Category Display should show the Categories for that specific Emulators,
+I choose to use Displays for Categories. I know I could have used Filters but it wouldn't allow me to have the options in the wheel menu.
+Using Displays also allows me to change layout whenever I want.
+
+Each Category display has a romfile configured in Attract.cfg 
+->Attract.cfg
+##Visible displays
+display	MameCategories
+	layout               nevato_full
+	romlist              MameCategories
+
+And the romfile shows the list of the Displays used for Categories.
+Note the last line as the return Option for the Main Display (1st Level).
+
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
+pl_shemup;Shoot'em Up;@;;;;;;;;;;;;;;;;;;
+pl_btemup;Beat'em Up;@;;;;;;;;;;;;;;;;;;
+pl_fighter;Fighter;@;;;;;;;;;;;;;;;;;;
+pl_platform;Platform;@;;;;;;;;;;;;;;;;;;
+pl_driving;Driving;@;;;;;;;;;;;;;;;;;;
+pl_rungun;Run & Gun;@;;;;;;;;;;;;;;;;;;
+pl_puzzle;Puzzle;@;;;;;;;;;;;;;;;;;;
+pl_sports;Sports;@;;;;;;;;;;;;;;;;;;
+pl_4players;4 Players;@;;;;;;;;;;;;;;;;;;
+pl_all;All Arcade;@;;;;;;;;;;;;;;;;;;
+Main;Main;@;;;;;;;;;;;;;;;;;;
+
+5. Game Displays (3rd Level)
+Each Category Display uses de default rom file for the emulator (ex. Mame) and has a Global Filter.
+Note the exception in the filter to include the entries with Emulator @ (return) in the wheel.
+
+I chose to use only the default romfile to make it simpler to add the return entry in only one romlist.
+If it's better you can gave different romfiles but you'll have to add the return entry in each of those.
+
+ex Mame Shoot-em-Up
+->Attract.cfg
+display	pl_shemup
+	layout               nevato
+	romlist              mame
+	in_cycle             no
+	in_menu              no
+	global_filter        
+		exception            Emulator equals @     // Used to include the return entry in the list
+		rule                 CloneOf not_equals .*
+		rule                 Category contains Shooter
+
+->Mame.txt (mame emulator romfile)
+#Last Line entry to return to Categories list.
+MameCategories;MameCategories;@;;;;;;
+
+Note: Usually gamelists are extensive and looking for the return option in the wheel is not the best option. Considering not using return option at this level.
+
+
+

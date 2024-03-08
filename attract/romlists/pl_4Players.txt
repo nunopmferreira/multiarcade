@@ -1,0 +1,135 @@
+#Romname;Title;Emulator;Cloneof;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Favourite;Tags;PlayedCount;PlayedTime;FileIsAvailable
+1on1gov;1 on 1 Government (Japan);mame;;2000;Tecmo;Sports / Basketball;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;coh1002m;TPS;;3;;;0;;1
+openice;2 On 2 Open Ice Challenge (rev 1.21);mame;;1995;Midway;Sports / Hockey;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;3;;;0;;1
+aafb;All American Football (rev E);mame;;1989;Leland Corporation;Sports / Football;4P sim;270;joystick (8-way),joystick (analog),joystick (8-way),joystick (8-way),joystick (analog),joystick (8-way);good;1;raster;;;;1;;;0;;1
+arabfgt;Arabian Fight (World);mame;;1991;Sega;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;2;;;0;;1
+arabianm;Arabian Magic (Ver 1.0O 1992/07/06);mame;;1992;Taito Corporation Japan;Fighter / 2.5D;4P sim;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4;;;0;;1
+soccer;Atari Soccer;mame;;1980;Atari;Sports / Soccer;4P sim;0;trackball,trackball,trackball,trackball;good;1;raster;;;;2;;;0;;1
+bssoccer;Back Street Soccer (KRB-0031 PCB);mame;;1996;SunA (Unico license);Sports / Soccer;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;3;;;0;;1
+barricad;Barricade;mame;;1976;Ramtek;Maze / Surround;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;0;;;0;;1
+batcir;Battle Circuit (Euro 970319);mame;;1997;Capcom;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+blzntrnd;Blazing Tornado;mame;;1994;Human Amusement;Sports / Wrestling;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4;;;0;;1
+bbmanw;Bomber Man World / New Dyna Blaster - Global Quest;mame;;1992;Irem;Maze / Collect;4P sim;0;joystick (4-way),joystick (4-way),joystick (4-way),joystick (4-way);good;1;raster;;;;2;;;0;;1
+bucky;Bucky O'Hare (ver EAB);mame;;1992;Konami;Shooter / Walking;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;3;;;0;;1
+captaven;Captain America and The Avengers (Asia Rev 1.4);mame;;1991;Data East Corporation;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;2;;;0;;1
+captcomm;Captain Commando (World 911202);mame;;1991;Capcom;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+carpolo;Car Polo;mame;;1977;Exidy;Sports / Misc.;4P sim;0;dial,dial,dial,dial;preliminary;1;raster;;;;3;;;0;;1
+checkmat;Checkmate;mame;;1977;Dave Nutting Associates / Midway;Maze / Surround;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;0;;;0;;1
+comotion;CoMotion;mame;;1976;Gremlin;Maze / Surround;4P sim;0;joystick (4-way),joystick (4-way),joystick (4-way),joystick (4-way);imperfect;1;raster;;;;0;;;0;;1
+copsnrob;Cops'n Robbers;mame;;1976;Atari;Shooter / Versus;4P sim;0;positional,positional,positional,positional;imperfect;1;raster;;;;2;;;0;;1
+cyberbal;Cyberball (rev 4);mame;;1988;Atari Games;Sports / Football;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;2;raster;;;;1;;;0;;1
+cyclwarr;Cycle Warriors (rev C);mame;;1991;Tatsumi;Fighter / Driving Vertical;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;;;;3;;;0;;1
+demoderb;Demolition Derby;mame;;1984;Bally Midway;Driving / Demolition Derby;4P sim;0;dial,dial,dial,dial;good;1;raster;;;;2;;;0;;1
+dsoccr94;Dream Soccer '94 (World, M107 hardware);mame;;1994;Irem (Data East Corporation license);Sports / Soccer;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;3;;;0;;1
+ddsom;Dungeons & Dragons: Shadow over Mystara (Euro 960619);mame;;1996;Capcom;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;4;;;0;;1
+ddtod;Dungeons & Dragons: Tower of Doom (Euro 940412);mame;;1993;Capcom;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;4;;;0;;1
+dunkmnia;Dunk Mania (World, DM2/VER.C);mame;;1995;Namco;Sports / Basketball;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;3;;;0;;1
+dunkshot;Dunk Shot (Rev C, FD1089A 317-0022);mame;;1987;Sega;Sports / Basketball;4P sim;0;trackball,trackball,trackball,trackball;good;1;raster;;;;2;;;0;;1
+dynablst;Dynablaster / Bomber Man;mame;;1991;Irem (licensed from Hudson Soft);Maze / Defeat Enemies;4P sim;0;joystick (4-way),joystick (4-way),joystick (4-way),joystick (4-way);good;1;raster;;;;2;;;0;;1
+embargo;Embargo;mame;;1977;Cinematronics;Maze / Surround;4P sim;0;dial,dial,dial,dial;preliminary;1;raster;;;;1;;;0;;1
+esckids;Escape Kids (Asia, 4 Players);mame;;1991;Konami;Sports / Track & Field;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+euroch92;Euro Champ '92 (World);mame;;1992;Taito Corporation Japan;Sports / Soccer;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+exvania;Exvania (World);mame;;1992;Namco;Maze / Fighter;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;3;;;0;;1
+fsoccer;Fighting Soccer (version 4);mame;;1988;SNK;Sports / Soccer;4P sim;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),dial;good;1;raster;;;;2;;;0;;1
+fball;Fire Ball (FM Work);mame;;1992;FM Work;Maze / Defeat Enemies;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+footchmp;Football Champ / Euro Football Champ (World);mame;;1990;Taito Corporation Japan;Sports / Soccer;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+gijoe;G.I. Joe (World, EAB, set 1);mame;;1992;Konami;Shooter / 3rd Person;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;3;;;0;;1
+gauntlet;Gauntlet (rev 14);mame;;1985;Atari Games;Maze / Shooter Large;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+gauntdl;Gauntlet Dark Legacy (version DL 2.52);mame;;1999;Midway Games;Maze / Shooter Large;4P sim;0;joystick (8-way),joystick (analog),joystick (8-way),joystick (analog),joystick (8-way),joystick (analog),joystick (8-way),joystick (analog);good;1;raster;;;chd;3;;;0;;1
+gaunt2;Gauntlet II;mame;;1986;Atari Games;Maze / Shooter Large;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+gauntleg;Gauntlet Legends (version 1.6);mame;;1998;Atari Games;Maze / Shooter Large;4P sim;0;joystick (8-way),joystick (analog),joystick (8-way),joystick (analog),joystick (8-way),joystick (analog),joystick (8-way),joystick (analog);good;1;raster;;;chd;3;;;0;;1
+goldmedl;Gold Medalist (set 1, Alpha68k II PCB);mame;;1988;SNK;Sports / Track & Field;4P sim;0;only_buttons,only_buttons,only_buttons,only_buttons;imperfect;1;raster;;;;3;;;0;;1
+ga2;Golden Axe: The Revenge of Death Adder (World, Rev B);mame;;1992;Sega;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;3;;;0;;1
+growl;Growl (World, Rev 1);mame;;1990;Taito Corporation Japan;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;3;;;0;;1
+ggisuka;Guilty Gear Isuka;mame;;2004;Arc System Works / Sammy;Fighter / Versus;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;awbios;Atomiswave BIOS;;6;;;0;;1
+hardyard;Hard Yardage (v1.20);mame;;1993;Strata/Incredible Technologies;Sports / Football;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+heatbrl;Heated Barrel (World version 3);mame;;1992;TAD Corporation;Shooter / Walking;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+hiimpact;High Impact Football (rev LA5 02/15/91);mame;;1990;Williams;Sports / Football;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;1;;;0;;1
+hitice;Hit the Ice (US);mame;;1990;Taito Corporation (Williams license);Sports / Hockey;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;3;;;0;;1
+hook;Hook (World);mame;;1992;Irem;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+hoops96;Hoops '96 (Europe/Asia 2.0);mame;;1996;Data East Corporation;Sports / Basketball;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4;;;0;;1
+hyperath;Hyper Athlete (GV021 Japan 1.00);mame;;1996;Konami;Sports / Track & Field;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;konamigv;Baby Phoenix/GV System;chd;3;;;0;;1
+intcup94;International Cup '94 (Ver 2.2O 1994/05/26);mame;;1994;Taito Corporation Japan;Sports / Soccer;4P sim;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4;;;0;;1
+vshoot;J-League Soccer V-Shoot (Japan);mame;;1994;Namco;Sports / Soccer;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;3;;;0;;1
+teamqb;John Elway's Team Quarterback (rev 3);mame;;1988;Leland Corporation;Sports / Football;4P sim;270;joystick (8-way),joystick (analog),joystick (8-way),joystick (8-way),joystick (analog),joystick (8-way);good;1;raster;;;;1;;;0;;1
+karatblz;Karate Blazers (World, set 1);mame;;1991;Video System Co.;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;4;;;0;;1
+kicknrun;Kick and Run (World);mame;;1986;Taito Corporation;Sports / Soccer;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+kov;Knights of Valour / Sanguo Zhan Ji / Sangoku Senki (ver. 117, Hong Kong);mame;;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;pgm;PGM (Polygame Master) System BIOS;;4;;;0;;1
+kov2;Knights of Valour 2 / Sanguo Zhan Ji 2 / Sangoku Senki 2 (ver. 107, 102, 100HK);mame;;2000;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;pgm;PGM (Polygame Master) System BIOS;;4;;;0;;1
+kov2nl;Knights of Valour 2 New Legend / Sanguo Zhan Ji 2 Guang Sao Yu Jun (V302, Oversea);mame;;2008;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;4;;;0;;1
+kov2p;Knights of Valour 2 Plus - Nine Dragons / Sanguo Zhan Ji 2 Qunxiong Zhengba / Sanguo Zhan Ji 2 Feilong Zai Tian / Sangoku Senki Busyou Souha (ver. M205XX, 200, 100CN);mame;;2001;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;pgm;PGM (Polygame Master) System BIOS;;4;;;0;;1
+kovplus;Knights of Valour Plus / Sanguo Zhan Ji Zhengzong Plus / Sangoku Senki Masamune Plus (ver. 119, set 1);mame;;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;pgm;PGM (Polygame Master) System BIOS;;4;;;0;;1
+kovytzy;Knights of Valour Super Heroes / Sanguo Zhan Ji Fengyun Zaiqi / Sangoku Senki Super Heroes (SANGO EX+) (ver. 201 'Yitong Zhongyuan', China);mame;;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;pgm;PGM (Polygame Master) System BIOS;;4;;;0;;1
+kovsh;Knights of Valour Super Heroes / Sanguo Zhan Ji Fengyun Zaiqi / Sangoku Senki Super Heroes (ver. 104, CN);mame;;1999;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;pgm;PGM (Polygame Master) System BIOS;;4;;;0;;1
+kovshp;Knights of Valour Super Heroes Plus / Sanguo Zhan Ji Luanshi Xiaoxiong (ver. 101);mame;;2004;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;pgm;PGM (Polygame Master) System BIOS;;4;;;0;;1
+knckhead;Knuckle Heads (World);mame;;1992;Namco;Fighter / Versus;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;3;;;0;;1
+legendoh;Legend of Heroes;mame;;2000;Limenko;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4;;;0;;1
+lightbr;Light Bringer (Ver 2.2O 1994/04/08);mame;;1993;Taito Corporation Japan;Maze / Fighter;4P sim;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4;;;0;;1
+machbrkr;Mach Breakers (World, MB2);mame;;1995;Namco;Sports / Track & Field;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;3;;;0;;1
+metamrph;Metamorphic Force (ver EAA);mame;;1993;Konami;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;3;;;0;;1
+mbombrd;Muscle Bomber Duo: Ultimate Team Battle (World 931206);mame;;1993;Capcom;Sports / Wrestling;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;3;;;0;;1
+mystwarr;Mystic Warriors (ver EAA);mame;;1993;Konami;Fighter / 2D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;3;;;0;;1
+nbahangt;NBA Hangtime (ver L1.3 10/10/96);mame;;1996;Midway;Sports / Basketball;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;3;;;0;;1
+nbajam;NBA Jam (rev 3.01 4/07/93);mame;;1993;Midway;Sports / Basketball;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;3;;;0;;1
+nbajamex;NBA Jam Extreme (ver. 1.10I);mame;;1996;Acclaim;Sports / Basketball;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;coh1000a;Acclaim PSX;;4;;;0;;1
+nbajamte;NBA Jam TE (rev 4.0 3/23/94);mame;;1994;Midway;Sports / Basketball;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;3;;;0;;1
+nbashowt;NBA Showtime NBA on NBC (ver 2.0, Apr 25 1999);mame;;1999;Midway Games;Sports / Basketball;4P sim;0;joystick (8-way),joystick (analog),joystick (8-way),joystick (analog),joystick (8-way),joystick (analog),joystick (8-way),joystick (analog);good;1;raster;;;chd;4;;;0;;1
+blitz99;NFL Blitz '99 (ver 1.30, Sep 22 1998);mame;;1998;Midway Games;Sports / Football;4P sim;0;joystick (8-way),joystick (analog),joystick (8-way),joystick (analog),joystick (8-way),joystick (analog),joystick (8-way),joystick (analog);good;1;raster;;;chd;3;;;0;;1
+blitz2k;NFL Blitz 2000 Gold Edition (ver 1.2, Sep 22 1999);mame;;1999;Midway Games;Sports / Football;4P sim;0;joystick (8-way),joystick (analog),joystick (8-way),joystick (analog),joystick (8-way),joystick (analog),joystick (8-way),joystick (analog);good;1;raster;;;chd;3;;;0;;1
+nbbatman;Ninja Baseball Bat Man (World);mame;;1993;Irem;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;2;;;0;;1
+numanath;Numan Athletics (World);mame;;1993;Namco;Sports / Track & Field;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;3;;;0;;1
+orlegend;Oriental Legend / Xiyou Shi E Chuan (ver. 126);mame;;1997;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;pgm;PGM (Polygame Master) System BIOS;;4;;;0;;1
+oldsplus;Oriental Legend 2 (Korea) / Xiyou Shi E Chuan Qunmoluanwu (World, China, Japan, Hong Kong, Taiwan) (ver. 205) [Oriental Ex];mame;;2004;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;pgm;PGM (Polygame Master) System BIOS;;4;;;0;;1
+orleg2;Oriental Legend 2 (V104, Oversea);mame;;2007;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;4;;;0;;1
+olds;Oriental Legend Super / Xiyou Shi E Chuan Super (ver. 101, Korean Board);mame;;1998;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;pgm;PGM (Polygame Master) System BIOS;;4;;;0;;1
+paddlema;Paddle Mania;mame;;1988;SNK;Sports / Misc.;4P sim;90;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+punkshot;Punk Shot (US 4 Players);mame;;1990;Konami;Sports / Basketball;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+quartet;Quartet (Rev A, 8751 315-5194);mame;;1986;Sega;Maze / Shooter Large;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+rimrockn;Rim Rockin' Basketball (V2.2);mame;;1991;Strata/Incredible Technologies;Sports / Basketball;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+ringrage;Ring Rage (Ver 2.3O 1992/08/09);mame;;1992;Taito Corporation Japan;Sports / Wrestling;4P sim;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4;;;0;;1
+rungun;Run and Gun (ver EAA 1993 10.8);mame;;1993;Konami;Sports / Basketball;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;3;;;0;;1
+rungun2;Run and Gun 2 (ver UAA);mame;;1996;Konami;Sports / Basketball;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;2;raster;konamigx;System GX;;3;;;0;;1
+rushhero;Rushing Heroes (ver UAB);mame;;1996;Konami;Sports / Football;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;2;raster;konamigx;System GX;;3;;;0;;1
+slammast;Saturday Night Slam Masters (World 930713);mame;;1993;Capcom;Sports / Wrestling;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;3;;;0;;1
+cupsoc;Seibu Cup Soccer (set 1);mame;;1992;Seibu Kaihatsu;Sports / Soccer;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;;;;3;;;0;;1
+silentd;Silent Dragon (World);mame;;1992;Taito Corporation Japan;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;3;;;0;;1
+snowbro2;Snow Bros. 2 - With New Elves / Otenki Paradise (Hanafram);mame;;1994;Hanafram;Platform / Run Jump;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+soccerss;Soccer Superstars (ver EAC);mame;;1994;Konami;Sports / Soccer;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;2;raster;konamigx;System GX;;3;;;0;;1
+spidman;Spider-Man: The Videogame (World);mame;;1991;Sega;Platform / Fighter Scrolling;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;2;;;0;;1
+nbanfl;SportStation: NBA Showtime NBA on NBC (ver 2.1, Sep 22 1999) / NFL Blitz 2000 Gold Edition (ver 1.5, Sep 22 1999);mame;;1999;Midway Games;Sports / Basketball;4P sim;0;joystick (8-way),joystick (analog),joystick (8-way),joystick (analog),joystick (8-way),joystick (analog),joystick (8-way),joystick (analog);good;1;raster;;;chd;4;;;0;;1
+nbagold;SportStation: NBA Showtime NBA on NBC Gold Edition (ver 3.0, Feb 18 2000) / NFL Blitz 2000 Gold Edition;mame;;2000;Midway Games;Sports / Multiplay;4P sim;0;joystick (8-way),joystick (analog),joystick (8-way),joystick (analog),joystick (8-way),joystick (analog),joystick (8-way),joystick (analog);good;1;raster;;;chd;4;;;0;;1
+sprint4;Sprint 4 (set 1);mame;;1977;Atari;Driving / Race Track;4P sim;180;dial,dial,dial,dial;good;1;raster;;;;6;;;0;;1
+stonebal;Stone Ball (4 Players, v1-20 13/12/1994);mame;;1994;Art & Magic;Sports / Soccer;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;3;;;0;;1
+ssriders;Sunset Riders (4 Players ver EAC);mame;;1991;Konami;Platform / Shooter Scrolling;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;2;;;0;;1
+scfinals;Super Cup Finals (Ver 2.2O 1994/01/13, single PCB);mame;;1993;Taito Corporation Japan;Sports / Soccer;4P sim;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4;;;0;;1
+spdheat;Super Dead Heat (World);mame;;1985;Taito Corporation;Driving / Race Track;4P sim;0;dial,pedal,dial,pedal,dial,pedal,dial,pedal;imperfect;4;raster;;;;1;;;0;;1
+shimpact;Super High Impact (rev LA1 09/30/91);mame;;1991;Midway;Sports / Football;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;1;;;0;;1
+sslam;Super Slam (set 1);mame;;1993;Playmark;Sports / Tennis;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;3;;;0;;1
+swcourt;Super World Court (World);mame;;1992;Namco;Sports / Tennis;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;3;;;0;;1
+pwrgoal;Taito Power Goal (Ver 2.5O 1994/11/03);mame;;1994;Taito Corporation Japan;Sports / Soccer;4P sim;0;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),joystick (8-way);imperfect;1;raster;;;;4;;;0;;1
+teamht;Team Hat Trick (11/16/84);mame;;1985;Bally/Sente;Sports / Hockey;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;1;;;0;;1
+tbowl;Tecmo Bowl (World, set 1);mame;;1987;Tecmo;Sports / Football;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;2;raster;;;;2;;;0;;1
+tmnt2;Teenage Mutant Ninja Turtles - Turtles in Time (4 Players ver UAA);mame;;1991;Konami;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+tmnt;Teenage Mutant Ninja Turtles (World 4 Players, version X);mame;;1989;Konami;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+theglad;The Gladiator / Shen Jian Fu Mo Lu / Shen Jian Fengyun (M68k label V101) (ARM label V107, ROM 06/06/03 SHEN JIAN V107);mame;;2003;IGS;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;pgm;PGM (Polygame Master) System BIOS;;4;;;0;;1
+mainevt;The Main Event (4 Players ver. Y);mame;;1988;Konami;Sports / Wrestling;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+ninjak;The Ninja Kids (World);mame;;1990;Taito Corporation Japan;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+simpsons;The Simpsons (4 Players World, set 1);mame;;1991;Konami;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+thndzone;Thunder Zone (World, Rev 1);mame;;1991;Data East Corporation;Shooter / Walking;2P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;2;;;0;;1
+touchgo;Touch and Go (World);mame;;1995;Gaelco;Sports / Volleyball;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;2;raster;;;;3;;;0;;1
+tdfever;TouchDown Fever (US);mame;;1987;SNK;Sports / Football;4P sim;90;joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),dial,joystick (8-way),dial;good;1;raster;;;;2;;;0;;1
+trog;Trog (rev LA5 3/29/91);mame;;1990;Midway;Maze / Collect;4P sim;0;joystick (4-way),joystick (4-way),joystick (4-way),joystick (4-way);good;1;raster;;;;1;;;0;;1
+vball;U.S. Championship V'ball (US);mame;;1988;Technos Japan;Sports / Volleyball;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+vendetta;Vendetta (World, 4 Players, ver. T);mame;;1991;Konami;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+vsbball;Vs. Baseball (US, set BA E-1);mame;;1984;Nintendo of America;Sports / Baseball;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;2;raster;;;;2;;;0;;1
+iceclmrd;Vs. Ice Climber Dual (set IC4-4 A-1);mame;;1984;Nintendo;Platform / Run Jump;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;2;raster;;;;2;;;0;;1
+vstennis;Vs. Tennis (Japan/USA, set TE A-3);mame;;1984;Nintendo Co., Ltd.;Sports / Tennis;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;2;raster;;;;2;;;0;;1
+warlords;Warlords;mame;;1980;Atari;Ball & Paddle / Breakout;4P sim;0;paddle,paddle,paddle,paddle;good;1;raster;;;;1;;;0;;1
+wg3dh;Wayne Gretzky's 3D Hockey (ver 1.3);mame;;1996;Atari Games;Sports / Hockey;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;chd;4;;;0;;1
+moomesa;Wild West C.O.W.-Boys of Moo Mesa (ver EAB);mame;;1992;Konami;Platform / Shooter Scrolling;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;2;;;0;;1
+wbeachvl;World Beach Volley (set 1, PIC16C57 audio CPU);mame;;1995;Playmark;Sports / Volleyball;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;3;;;0;;1
+wsf;World Soccer Finals (rev 4);mame;;1990;Leland Corporation;Sports / Soccer;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+wwfwfest;WWF WrestleFest (World);mame;;1991;Technos Japan (Tecmo license);Sports / Wrestling;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+xmen;X-Men (4 Players ver EBA);mame;;1992;Konami;Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);imperfect;1;raster;;;;3;;;0;;1
+zeroteam;Zero Team USA (US);mame;;1993;Seibu Kaihatsu (Fabtek license);Fighter / 2.5D;4P sim;0;joystick (8-way),joystick (8-way),joystick (8-way),joystick (8-way);preliminary;1;raster;;;;3;;;0;;1
+MameCategories;MameCategories;@;;;;;;

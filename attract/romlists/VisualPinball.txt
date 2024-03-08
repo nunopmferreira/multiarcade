@@ -1,0 +1,10 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
+ACDC;ACDC;VisualPinball;;1992;Allumer / Tecmo;Music;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+xmen;X-MEN;VisualPinball;;1992;Allumer / Tecmo;Marvel / DC;2P sim;270;joystick (8-way),joystick (8-way);good;1;raster;;;;2;;;0;;1
+Tron;Tron Legacy;VisualPinball;;;;Movies;;;;good;1;raster;;;;2;;;0;;1
+TRON;Tron Legacy;VisualPinball;;;;Movies;;;;good;1;raster;;;;2;;;0;;1
+KILL BILL_VP_Cooks_ENGLISH;Kill Bill;VisualPinball;;;;Movies;;;;good;1;raster;;;;2;;;0;;1
+Aerosmith (Original 2021) 1.01;Aerosmith;VisualPinball;;;;Music;;;;good;1;raster;;;;2;;;0;;1
+JPs Deadpool v5.1.2_VPX8;JP's Deadpool;VisualPinball;;;;Marvel / DC;;;;good;1;raster;;;;2;;;0;;1
+Minions (SLW 2022);Minion;VisualPinball;;;;Comics;;;;good;1;raster;;;;2;;;0;;1
+VPCategories;VPCategories;@;;;;;;

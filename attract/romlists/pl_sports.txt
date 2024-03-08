@@ -1,0 +1,6 @@
+#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
+test;test;mame;;;;;;;;;;;;;;;;;;
+test1;test1;mame;;;;;;;;;;;;;;;;;;
+test2;test2;mame;;;;;;;;;;;;;;;;;;
+test3;test3;mame;;;;;;;;;;;;;;;;;;
+MameCategories;MameCategories;@;;;;;;

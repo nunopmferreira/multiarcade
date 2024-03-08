@@ -1,0 +1,29 @@
+Action;1
+Adventure;2
+Board;20
+Construction and Management Simulation;3
+Education;21
+Family;22
+Fighting;10
+Flight Simulator;13
+GBA Video / PSP Video;29
+Horror;18
+Life Simulation;9
+MMO;14
+Music;17
+Party;23
+Platform;15
+Productivity;24
+Puzzle;5
+Quiz;25
+Racing;7
+Role-Playing;4
+Sandbox;12
+Shooter;8
+Sports;11
+Stealth;16
+Strategy;6
+Unofficial;28
+Utility;26
+Vehicle Simulation;19
+Virtual Console;27

@@ -1,0 +1,147 @@
+3DO;25
+Acorn Archimedes;4944
+Acorn Atom;5014
+Acorn Electron;4954
+Action Max;4976
+Amiga;4911
+Amiga CD32;4947
+Amstrad CPC;4914
+Amstrad GX4000;4999
+Android;4916
+APF MP-1000;4969
+Apple II;4942
+Apple Pippin;5001
+Arcade;23
+Atari 2600;22
+Atari 5200;26
+Atari 7800;27
+Atari 800;4943
+Atari Jaguar;28
+Atari Jaguar CD;29
+Atari Lynx;4924
+Atari ST;4937
+Atari XE;30
+Bally Astrocade;4968
+Bandai TV Jack 5000;4995
+BBC Bridge Companion;4997
+BBC Micro;5013
+Casio Loopy;4991
+Casio PV-1000;4964
+Coleco Telstar Arcade;4970
+Colecovision;31
+Commodore 128;4946
+Commodore 16;5006
+Commodore 64;40
+Commodore PET;5008
+Commodore Plus/4;5007
+Commodore VIC-20;4945
+Didj;5012
+Dragon 32/64;4952
+Emerson Arcadia 2001;4963
+Entex Adventure Vision;4974
+Entex Select-a-Game;4973
+Epoch Cassette Vision;4965
+Epoch Super Cassette Vision;4966
+Evercade;4985
+Fairchild Channel F;4928
+Famicom Disk System;4936
+FM Towns Marty;4932
+Fujitsu FM-7;4978
+Gakken Compact Vision;4962
+Gamate;5004
+Game & Watch;4950
+Game Wave;5002
+Game.com;4940
+Gizmondo;4992
+GP32;5015
+Handheld Electronic Games (LCD);4951
+HyperScan;4987
+Intellivision;32
+Interton VC 4000;4994
+iOS;4915
+Mac OS;37
+Magnavox Odyssey 1;4961
+Magnavox Odyssey 2;4927
+Mattel Aquarius;4989
+Mega Duck;4948
+Microsoft Xbox;14
+Microsoft Xbox 360;15
+Microsoft Xbox One;4920
+Microsoft Xbox Series X;4981
+Milton Bradley Microvision;4972
+MSX;4929
+N-Gage;4938
+Neo Geo;24
+Neo Geo CD;4956
+Neo Geo Pocket;4922
+Neo Geo Pocket Color;4923
+Nintendo 3DS;4912
+Nintendo 64;3
+Nintendo DS;8
+Nintendo Entertainment System (NES);7
+Nintendo Game Boy;4
+Nintendo Game Boy Advance;5
+Nintendo Game Boy Color;41
+Nintendo GameCube;2
+Nintendo Pokémon Mini;4957
+Nintendo Switch;4971
+Nintendo Virtual Boy;4918
+Nintendo Wii;9
+Nintendo Wii U;38
+Nuon;4935
+Oculus Quest;4990
+Oric-1;4986
+Ouya;4921
+Palmtex Super Micro;5003
+PC;1
+PC-88;4933
+PC-98;4934
+PC-FX;4930
+Philips CD-i;4917
+Philips Tele-Spiel ES-2201;4993
+Pioneer LaserActive;4975
+Playdate;5016
+Playdia;5000
+R-Zone;4983
+RCA Studio II;4967
+SAM Coupé;4979
+Sega 32X;33
+Sega CD;21
+Sega Dreamcast;16
+Sega Game Gear;20
+Sega Genesis;18
+Sega Master System;35
+Sega Mega Drive;36
+Sega Pico;4958
+Sega Saturn;17
+SEGA SG-1000;4949
+Sharp X1;4977
+Sharp X68000;4931
+SHG Black Point;4996
+Sinclair ZX Spectrum;4913
+Sinclair ZX80;5009
+Sinclair ZX81;5010
+Sony Playstation;10
+Sony Playstation 2;11
+Sony Playstation 3;12
+Sony Playstation 4;4919
+Sony Playstation 5;4980
+Sony Playstation Portable;13
+Sony Playstation Vita;39
+Stadia;5011
+Super Nintendo (SNES);6
+Tandy Visual Interactive System;4982
+Tapwave Zodiac;5017
+Texas Instruments TI-99/4A;4953
+Tomy Tutor;4960
+TRS-80 Color Computer;4941
+TurboGrafx 16;34
+TurboGrafx CD;4955
+V.Smile;4988
+Vectrex;4939
+VTech CreatiVision;5005
+VTech Socrates;4998
+Watara Supervision;4959
+WonderSwan;4925
+WonderSwan Color;4926
+Xavix Port;4984

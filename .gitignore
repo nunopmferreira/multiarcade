@@ -1,0 +1,16 @@
+# ignore all menu-art media files
+attract/menu-art
+
+# ignore dosbox files
+dosbox
+
+#ignore mame dirs
+mame
+
+#ignore vpinball dir
+vpinball/build
+vpinball/Cache
+vpinball/music
+vpinball/tables
+vpinball/user
+pinmame
