@@ -116,7 +116,6 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 >
 > - In MameCategories.txt romlist file you'd have:
 >   ```
-> #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
 > pl_shemup;Shootem Up;@;;;;;;;;;;;;;;;;;;
 > pl_btemup;Beatem Up;@;;;;;;;;;;;;;;;;;;
 > pl_fighter;Fighter;@;;;;;;;;;;;;;;;;;;
