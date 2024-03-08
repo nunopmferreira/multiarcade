@@ -4,7 +4,7 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 
 ## Summary
 
-[![arcade](https://github.com/nunopmferreira/multiarcade/blob/main/images/arcade.jpg)]
+![arcade](https://github.com/nunopmferreira/multiarcade/blob/main/images/arcade.jpg)
 
 ***Emulators and OS***
 
@@ -35,6 +35,7 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 
 > Menus are a pain to configure and it’s hard to find proper guidance to configure them.
 > Below is my approach but I’m sure a better one exists.
+>   ```
 > - Displays Menu (default) + Main Menu (display) (Level1)
 >   - MameCategories  (display) (Level 2)
 >     - Beat ‘em Up (display) (Level 3)
@@ -45,6 +46,7 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 >     - Movies (display) (Level 3)
 >     - …
 >   - DosBox (display) (Level 2)
+>   ```
 
 ***Top Menu***
 
@@ -82,7 +84,6 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 > Notice the in_menu=yes in the displays I want on the Displays Menu and in_menu=no in the displays that are for navigation. 
 > Main display (copy of displays) is hidden because it will shown only on the lower menus.
 > To navigate between displays, I use a default attract romlist configuration as shown below in the Main display romlist.
-> 
 >   ```
 > #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
 > MameCategories;Mame Categories;@;;;;;;;;;;;;;;;;;;
@@ -97,13 +98,15 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 >
 > So for example for MameCategories, a Level 2 menu:
 > - In attract.cfg you have:
+>   ```
 >       display	MameCategories
 >	        layout               nevato_full
 >	        romlist              MameCategories
 >	        in_cycle             yes
 >	        in_menu              yes
-> - You have romlist file MameCategories.txt:
+>   ```
 >
+> - In MameCategories.txt romlist file you have:
 >   ```
 >#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
 >pl_shemup;Shoot'em Up;@;;;;;;;;;;;;;;;;;;
