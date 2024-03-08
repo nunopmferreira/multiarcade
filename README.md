@@ -121,10 +121,9 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 > pl_all;All Arcade;@;;;;;;;;;;;;;;;;;;
 > Main;Main;@;;;;;;;;;;;;;;;;;;
 >   ```
->
 > Notice the Main line at the bottom that allows me to navigate to the Main (Level 1) Menu and behaves as a “Back” option.
 >
-> Each of the lines pl_shemup, pl_btemup are displays, configured in attract.cfg with a global filter:
+> Each of the lines pl_shemup, pl_btemup,... are displays, configured in attract.cfg with a global filter:
 >   ```
 > display	pl_shemup
 >	layout               nevato
