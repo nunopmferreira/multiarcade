@@ -60,9 +60,10 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 
 > By default, there is no configurable top menu where to navigate to, Displays are the default top menu when Attract starts.
 > But, to implement a “Back” option, I would need a Top Menu.
+>
 > My solution was to create a Main Menu display, with the same configuration as the Displays menu.
 >
-> So my attract.cfg begging looks like this:
+> So my attract.cfg beggining looks like this:
 >   ```
 > display	MameCategories
 > 	layout               nevato_full
@@ -90,7 +91,9 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 >   ```
 >
 > Notice the in_menu=yes in the displays I want on the Displays Menu and in_menu=no in the displays that are for navigation. 
-> Main display (copy of displays) is hidden because it will shown only on the lower menus.
+>
+>  Main display (copy of displays) is hidden because it will shown only on the lower menus.
+>
 > To navigate between displays, I use a default attract romlist configuration as shown below in the Main display romlist.
 >   ```
 > #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
@@ -102,6 +105,7 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 ***Romlists and filters***
 
 > I tried a lot of different settings and ended up with one romlist per menu and one romlist per emulator. 
+>
 > I also don’t use filters besides a global one for each display.
 >
 > So for example for MameCategories, a Level 2 menu:
@@ -116,17 +120,18 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 >
 > - In MameCategories.txt romlist file you'd have:
 >   ```
-> pl_shemup;Shootem Up;@;;;;;;;;;;;;;;;;;;
-> pl_btemup;Beatem Up;@;;;;;;;;;;;;;;;;;;
-> pl_fighter;Fighter;@;;;;;;;;;;;;;;;;;;
-> pl_platform;Platform;@;;;;;;;;;;;;;;;;;;
-> pl_driving;Driving;@;;;;;;;;;;;;;;;;;;
-> pl_rungun;Run & Gun;@;;;;;;;;;;;;;;;;;;
-> pl_puzzle;Puzzle;@;;;;;;;;;;;;;;;;;;
-> pl_sports;Sports;@;;;;;;;;;;;;;;;;;;
-> pl_4players;4 Players;@;;;;;;;;;;;;;;;;;;
-> pl_all;All Arcade;@;;;;;;;;;;;;;;;;;;
-> Main;Main;@;;;;;;;;;;;;;;;;;;
+>   #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
+>   pl_shemup;Shootem Up;@;;;;;;;;;;;;;;;;;;
+>   pl_btemup;Beatem Up;@;;;;;;;;;;;;;;;;;;
+>   pl_fighter;Fighter;@;;;;;;;;;;;;;;;;;;
+>   pl_platform;Platform;@;;;;;;;;;;;;;;;;;;
+>   pl_driving;Driving;@;;;;;;;;;;;;;;;;;;
+>   pl_rungun;Run & Gun;@;;;;;;;;;;;;;;;;;;
+>   pl_puzzle;Puzzle;@;;;;;;;;;;;;;;;;;;
+>   pl_sports;Sports;@;;;;;;;;;;;;;;;;;;
+>   pl_4players;4 Players;@;;;;;;;;;;;;;;;;;;
+>   pl_all;All Arcade;@;;;;;;;;;;;;;;;;;;
+>   Main;Main;@;;;;;;;;;;;;;;;;;;
 >   ```
 >
 > Notice the Main line at the bottom that allows me to navigate to the Main (Level 1) Menu and behaves as a “Back” option.
@@ -145,7 +150,9 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 >   ```
 >
 > Mame emulator has a single Mame.txt romlist file for all categories (level 3) displays.
+>
 > One additional detail is that I added a line at the bottom of each emulator romlist to allow me to return to the Categories (level 2) Menu
+>
 > On Mame.txt the last line is:
 >   ```
 > MameCategories;MameCategories;@;;;;;;
@@ -154,8 +161,10 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 ***Second screens***
 
 > If you remember, my setup has 2 screens: Playfield and DMD.
+>
 > While in the frontend I want the second screen to show something relevant.
-> I’m using the multimon plugin to display the marquee in the DMD monitor.
+>
+>  I’m using the multimon plugin to display the marquee in the DMD monitor.
 
 ## Attract Layout
 >I’m using [Nevato](https://onyxarcade.com/nevato.html). This layout is perfect for Mame and DosBox but need some tweaking for VPinball.
@@ -171,8 +180,10 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 > ***Overlay***
 
 > I also added the possibility to add an overlay image over the background media.
+>
 > This allows me to use non specific videos in the background and use the overlay for additional info on where I’m at.
-> In my setup the overlay is a transparent png with the name of the display.
+>
+> In my setup, the overlay is a transparent png with the name of the display. This is available in all my Nevato layouts.
 >
 > ![overlay](https://github.com/nunopmferreira/multiarcade/blob/main/images/overlay.jpg)
 >
@@ -185,15 +196,18 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 ***Nevato_Full***
 
 > I wanted a PinUp Popper look and feel when navigating through the menus. In these menus you have no rom info, just media files to show up. 
-> I ended up editing the layout to create nevato_full. This layout shows only a media file in the background, fulfilling all the screen.
+>
+>  I ended up editing the layout to create nevato_full. This layout shows only a media file in the background, fulfilling all the screen.
 >
 > ![nevato_full](https://github.com/nunopmferreira/multiarcade/blob/main/images/nevato_full.jpg)
 
 ***Nevato_Pinball***
 
 > Nevato by default is targeted at mame/consoles but I was looking for a more Pinball oriented design. 
-> Changed the cabinet, naming for a specific backglass folder images and some other things that I can't quite recall.
-> The result is a new layout.
+>
+>  Changed the cabinet, naming for a specific backglass folder images and some other things that I can't quite recall.
+>
+>  The result is a new layout.
 >
 > ![nevato_pinball](https://github.com/nunopmferreira/multiarcade/blob/main/images/nevato_pinball.jpg)
 
@@ -205,21 +219,26 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 
 ## Visual Pinball Standalone
 > I have a two screen setup: 32’’ LCD for playfield and a Long Strip, 1920x480 LCD for DMD.
-> The HW is a Low end laptop so optimizing for performance will always be a priority.
+>
+>  The HW is a Low end laptop so optimizing for performance will always be a priority.
+>
 > I have two coexisting setups with Linux and Windows.
 >
 > I’m using the same VPX 10.8.0 RC1 (VPinballX_GL) in both environments.
-> The good news is that it works in both environments.
+>
+>  The good news is that it works in both environments.
 
 ***Installation***
 
 > For windows: https://github.com/vpinball/vpinball/releases/tag/v10.8.0-1873-bdd0673
 >
 > For Linux: https://github.com/vpinball/vpinball/tree/standalone/standalone
+>
 > Follow the instruction for compiling: https://github.com/vpinball/vpinball/tree/standalone/standalone#compiling
 >
 > Configuration in Linux is way trickier as you don’t have a configuration interface and will have to use only VPinballX.ini.
-> I've been documenting my VPinballX.ini using the info I can find, but is far from exaustive.
+>
+>  I've been documenting my VPinballX.ini using the info I can find, but is far from exaustive.
 
 *** Configuring DMD position in Linux ***
 
