@@ -4,23 +4,30 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 
 ## Summary
 
-![arcade](https://github.com/nunopmferreira/multiarcade/blob/main/images/arcade.jpg)
+![arcade_landscape](https://github.com/nunopmferreira/multiarcade/blob/main/images/arcade_landscape.jpg)
 
 ***Emulators and OS***
 
 > My requirements started with mame and dosbox (SWOS exclusively) and later evolved to VPX.
+>
 > I’m a Linux user so my first preference is Linux, as I find it easier to customize to a more solid setup. Windows is the backup.
+>
 > I have both Windows and Linux environments and continue to maintain them in parallel, using which one gives me better performance.
 
 ***Physical Setup***
 
 > I’m using a low end PC or a laptop  so I’ll be targeting performance and not quality. I’m leaving the door open to a more powerful setup. I don’t think that I have anything that limits me on this.
+>
 > Ended in a two screen setup: 32’’ LCD for playfield and a Long Strip, 1920x480 LCD for DMD
-> The 32’’ screen uses a dc motor that allows it to rotate for landscape and portrait mode, with the press of a switch.
+>
+> The 32’’ screen uses a dc motor that allows it to rotate for landscape and portrait mode, with the press of a switch on the side.
+
+![arcade_portrait](https://github.com/nunopmferreira/multiarcade/blob/main/images/arcade_portrait.jpg)
 
 ***Frontend***
 
 > I experimented with PinUPPopper for a while and, although I like the visual and features, I found it hard to set up, maintain and is also not Linux compatible. 
+>
 > Ended with Attract Mode with a lot of customizations.
 
 ## Attract Frontend
@@ -29,6 +36,7 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 >It’s Windows and Linux compatible, is open-source and I find it easy to customize layouts and plugins.
 >
 >I liked PinUp Popper visual so my first task was to create a similar look and feel.
+>
 >Another thing I was aiming for was a “Back” option on each menu (same as Esc).
 
 ***Menus Structure***
@@ -97,7 +105,7 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 > I also don’t use filters besides a global one for each display.
 >
 > So for example for MameCategories, a Level 2 menu:
-> - In attract.cfg you have:
+> - In attract.cfg you'll have:
 >   ```
 >       display	MameCategories
 >	        layout               nevato_full
@@ -106,8 +114,8 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 >	        in_menu              yes
 >   ```
 >
-> - In MameCategories.txt romlist file you have:
->   
+> - In MameCategories.txt romlist file you'll have:
+>   ```
 > #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
 > pl_shemup;Shoot'em Up;@;;;;;;;;;;;;;;;;;;
 > pl_btemup;Beat'em Up;@;;;;;;;;;;;;;;;;;;
@@ -120,7 +128,7 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 > pl_4players;4 Players;@;;;;;;;;;;;;;;;;;;
 > pl_all;All Arcade;@;;;;;;;;;;;;;;;;;;
 > Main;Main;@;;;;;;;;;;;;;;;;;;
->   
+>   ```
 >
 > Notice the Main line at the bottom that allows me to navigate to the Main (Level 1) Menu and behaves as a “Back” option.
 >
@@ -141,7 +149,7 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 > One additional detail is that I added a line at the bottom of each emulator romlist to allow me to return to the Categories (level 2) Menu
 > On Mame.txt the last line is:
 >   ```
->MameCategories;MameCategories;@;;;;;;
+> MameCategories;MameCategories;@;;;;;;
 >   ```
 
 ***Second screens***
@@ -157,7 +165,7 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 
 > Changed a bit the wheel and background, to be able to use the wheel T-Arc images available. 
 >
-> > [![t-arc](https://github.com/nunopmferreira/multiarcade/blob/main/images/tarc.jpg)]
+> ![t-arc](https://github.com/nunopmferreira/multiarcade/blob/main/images/tarc.jpg)
 
 > ***Overlay***
 
@@ -165,7 +173,7 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 > This allows me to use non specific videos in the background and use the overlay for additional info on where I’m at.
 > In my setup the overlay is a transparent png with the name of the display.
 >
-> [![overlay](https://github.com/nunopmferreira/multiarcade/blob/main/images/overlay.jpg)]
+> ![overlay](https://github.com/nunopmferreira/multiarcade/blob/main/images/overlay.jpg)
 >
 > In the layout config menu, background art, you can choose fanart&overlay to read the overlay images from a specific folder. Don’t forget to add this config in your emulator config file
 > VisualPinball.cfg.
@@ -178,7 +186,7 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 > I wanted a PinUp Popper look and feel when navigating through the menus. In these menus you have no rom info, just media files to show up. 
 > I ended up editing the layout to create nevato_full. This layout shows only a media file in the background, fulfilling all the screen.
 >
-> [![nevato_full](https://github.com/nunopmferreira/multiarcade/blob/main/images/nevato_full.jpg)]
+> ![nevato_full](https://github.com/nunopmferreira/multiarcade/blob/main/images/nevato_full.jpg)
 
 ***Nevato_Pinball***
 
@@ -186,7 +194,13 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 > Changed the cabinet, naming for a specific backglass folder images and some other things that I can't quite recall.
 > The result is a new layout.
 >
-> [![nevato_pinball](https://github.com/nunopmferreira/multiarcade/blob/main/images/nevato_pinball.jpg)]
+> ![nevato_pinball](https://github.com/nunopmferreira/multiarcade/blob/main/images/nevato_pinball.jpg)
+
+> Don’t forget to add this config in your emulator config file
+> VisualPinball.cfg.
+>   ```
+> artwork    backglass       $HOME/multiarcade/attract/menu-art/VisualPinball/backglass
+>   ```
 
 ## Visual Pinball Standalone
 > I have a two screen setup: 32’’ LCD for playfield and a Long Strip, 1920x480 LCD for DMD.
@@ -216,8 +230,11 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 >
 > Found this post from Toxie where he has a Linux Batocera setup with a video.
 > https://www.vpforums...one#entry529214
+>
 > In his YouTube video he has the link to his Github repo where he describes his VPX Display Server
+>
 > https://github.com/jsm174/vpxds
+>
 > I noticed that he extends his screens and configures the DMD to be placed on the X position 2104 (X start of the right screen).
 >   ```
 > DMD=1
