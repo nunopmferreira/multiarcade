@@ -105,7 +105,7 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 > I also don’t use filters besides a global one for each display.
 >
 > So for example for MameCategories, a Level 2 menu:
-> - In attract.cfg you'll have:
+> - In attract.cfg you'd have:
 >   ```
 >       display	MameCategories
 >	        layout               nevato_full
@@ -114,12 +114,19 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 >	        in_menu              yes
 >   ```
 >
-> - In MameCategories.txt romlist file you'll have:
+> - In MameCategories.txt romlist file you'd have:
 >   ```
 > #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
-> pl_shemup;Shoot'em Up;@;;;;;;;;;;;;;;;;;;
-> pl_btemup;Beat'em Up;@;;;;;;;;;;;;;;;;;;
-> ...
+> pl_shemup;Shootem Up;@;;;;;;;;;;;;;;;;;;
+> pl_btemup;Beatem Up;@;;;;;;;;;;;;;;;;;;
+> pl_fighter;Fighter;@;;;;;;;;;;;;;;;;;;
+> pl_platform;Platform;@;;;;;;;;;;;;;;;;;;
+> pl_driving;Driving;@;;;;;;;;;;;;;;;;;;
+> pl_rungun;Run & Gun;@;;;;;;;;;;;;;;;;;;
+> pl_puzzle;Puzzle;@;;;;;;;;;;;;;;;;;;
+> pl_sports;Sports;@;;;;;;;;;;;;;;;;;;
+> pl_4players;4 Players;@;;;;;;;;;;;;;;;;;;
+> pl_all;All Arcade;@;;;;;;;;;;;;;;;;;;
 > Main;Main;@;;;;;;;;;;;;;;;;;;
 >   ```
 >
@@ -151,8 +158,10 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 > While in the frontend I want the second screen to show something relevant.
 > I’m using the multimon plugin to display the marquee in the DMD monitor.
 
-## Attract Frontend
->I’m using [Nevato](https://onyxarcade.com/nevato.html). This layout is perfect for Mame and DosBox but need some tweaking for VPinball
+## Attract Layout
+>I’m using [Nevato](https://onyxarcade.com/nevato.html). This layout is perfect for Mame and DosBox but need some tweaking for VPinball.
+
+> ![nevato](https://github.com/nunopmferreira/multiarcade/blob/main/images/nevato.jpg)
 
 ***Wheel and Backgrounds***
 
