@@ -119,14 +119,7 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 > #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons;Series;Language;Region;Rating
 > pl_shemup;Shoot'em Up;@;;;;;;;;;;;;;;;;;;
 > pl_btemup;Beat'em Up;@;;;;;;;;;;;;;;;;;;
-> pl_fighter;Fighter;@;;;;;;;;;;;;;;;;;;
-> pl_platform;Platform;@;;;;;;;;;;;;;;;;;;
-> pl_driving;Driving;@;;;;;;;;;;;;;;;;;;
-> pl_rungun;Run & Gun;@;;;;;;;;;;;;;;;;;;
-> pl_puzzle;Puzzle;@;;;;;;;;;;;;;;;;;;
-> pl_sports;Sports;@;;;;;;;;;;;;;;;;;;
-> pl_4players;4 Players;@;;;;;;;;;;;;;;;;;;
-> pl_all;All Arcade;@;;;;;;;;;;;;;;;;;;
+> ...
 > Main;Main;@;;;;;;;;;;;;;;;;;;
 >   ```
 >
@@ -165,7 +158,7 @@ So, I’ve been tuning and changing my setup for the last few years and decided 
 
 > Changed a bit the wheel and background, to be able to use the wheel T-Arc images available. 
 >
-> ![t-arc](https://github.com/nunopmferreira/multiarcade/blob/main/images/tarc.jpg)
+> ![t-arc](https://github.com/nunopmferreira/multiarcade/blob/main/images/t-arc.jpg)
 
 > ***Overlay***
 
